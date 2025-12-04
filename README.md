@@ -307,7 +307,11 @@ For my notes on the STM32F407VG with Arduino, see https://github.com/BLavery/STM
 For my notes on the STM32F030F4P6, see https://github.com/BLavery/STM32F030F4P6-Arduino  
 For my notes on the STM32F103 "BluePill", see https://github.com/BLavery/STM32F103-Arduino  
 
+```
+## NOTE ADDED Dec 2025:
+[Reference to ... ] a package of files and info to enable anyone to debug these modules using a j-link debug probe and PlatformIO. At the following location is a complete PlatformIO folder to open in PlatformIO and it includes a folder "Additional files for j-link debug" that includes additional files and instructions how to use them:
 
+https://github.com/BenthamSoftwareServices/PlatformIO/tree/main/Microchip_SAMD_MCUs/SAMD21-M0-Mini
 
 
 
